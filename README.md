@@ -1,5 +1,5 @@
 ![header](images/header.png)
-##One-click Maya solution to add useful vertex color data to your meshes
+## One-click Maya solution to add useful vertex color data to your meshes
 
 I love vertex colors! They're a super cheap and useful way to pack all sorts of data in your meshes without having to resort to lookup or reference textures. For more stylized projects, it can also just be a way to get some nicely interpolated colors.
 
