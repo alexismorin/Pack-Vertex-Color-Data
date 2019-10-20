@@ -18,3 +18,5 @@ This is pretty self explanatory at this point - just pipe these in your friendly
 Anyways, just get the script and pipe it in your Maya shelf, the end.
 
 ![gif](images/gif.gif)
+
+Oh yeah, I probably wouldn't use this for meshes above 2000 vertices - might be pretty slow when baking the AO.
